@@ -38,5 +38,6 @@
 
 
 <script>
+<br>				    
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
